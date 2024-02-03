@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## honor
 
 honor
@@ -5,3 +6,6 @@ honor
 #### License
 
 mit
+=======
+# honor
+>>>>>>> origin/main
